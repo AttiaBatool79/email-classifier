@@ -1,10 +1,10 @@
-# 📧 Email Classifier Project
+# Email Classifier Project
 
 This project is a **Machine Learning-based Email Classifier** that detects whether an email is **spam** or **not spam (ham)** using various natural language processing (NLP) and machine learning techniques. This solution helps in automatic email filtering for better productivity and email security.
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | File Name                    | Description |
 |-----------------------------|-------------|
@@ -17,13 +17,13 @@ This project is a **Machine Learning-based Email Classifier** that detects wheth
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To develop and evaluate a machine learning model that can accurately classify emails as spam or ham, using text processing and classification algorithms. The end goal is to reduce the burden of spam on users.
 
 ---
 
-## 🧰 Tools and Technologies Used
+## Tools and Technologies Used
 
 - **Programming Language:** Python  
 - **IDE:** Jupyter Notebook  
@@ -36,7 +36,7 @@ To develop and evaluate a machine learning model that can accurately classify em
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **File:** `spam.csv`
 - **Attributes:**
@@ -45,7 +45,7 @@ To develop and evaluate a machine learning model that can accurately classify em
 
 ---
 
-## 🛠️ Workflow and Methodology
+## Workflow and Methodology
 
 ### 1. Data Preprocessing
 - Removing unnecessary columns
@@ -72,14 +72,14 @@ To develop and evaluate a machine learning model that can accurately classify em
 
 ---
 
-## ✅ Results
+## Results
 
 - The model achieved **X% accuracy** on the test data. *(Update this from your results)*
 - Logistic Regression and Naive Bayes gave competitive results, suitable for real-time deployment.
 
 ---
 
-## 💻 How to Run This Project
+## How to Run This Project
 
 1. Clone this repository:
    ```bash
